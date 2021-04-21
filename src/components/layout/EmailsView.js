@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const EmailsView = () => {
-    return (
-        <div>
-            EMAILSSSSS AUTOOOOO
-        </div>
-    )
-}
+  return <div>Daftar Email</div>;
+};
 
-export default EmailsView
+export default EmailsView;

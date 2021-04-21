@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const SideIcons = () => {
-    return (
-        <div>
-            ICONS@@!ß
-        </div>
-    )
-}
+  return <div>Icon Email</div>;
+};
 
-export default SideIcons
+export default SideIcons;
